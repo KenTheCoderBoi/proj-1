@@ -1,0 +1,12 @@
+.heading{
+    margin-top: 0px;
+    width: 100%;
+}
+.title{
+    margin-left: 0px;
+}
+canvas{
+    border-radius: 10px;
+    border-color: black;
+    border-width: 10px;
+}
